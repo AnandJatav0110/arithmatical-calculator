@@ -71,18 +71,8 @@ Simply open the `index.html` file in your browser.
 | . | Decimal point |
 
 ## 📸 Screenshot
+<img width="818" height="623" alt="Screenshot (2566)" src="https://github.com/user-attachments/assets/3e1505a5-2bf9-419a-8eb9-2947e1191f83" />
 
-Place your calculator screenshot inside the `assets` folder and name it:
-
-```text
-calculator-preview.png
-```
-
-Then GitHub will automatically display it using:
-
-```md
-![Calculator Preview](./assets/calculator-preview.png)
-```
 
 ## 🤝 Contributing
 
